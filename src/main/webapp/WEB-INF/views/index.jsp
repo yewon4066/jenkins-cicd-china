@@ -21,7 +21,7 @@
     </style>
 </head>
 <body>
-    <img class="flag" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_China.svg" alt="Chinese Flag" />
+    <img class="flag" src="https://buly.kr/DPTikTU" alt="Chinese Flag" />
     <h1>Welcome! This is the Chinese Server.</h1>
     <h2>Administrator: KGS3</h2>
     <p>Today's date is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></p>
